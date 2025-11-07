@@ -1,0 +1,25 @@
+.container{
+    border: 4px solid blue;
+    border-collapse:collapse;
+}
+.row{
+    border: 3px solid pink;
+}
+.col-md-12,.col-md-3,.col-md-6,.col-6{
+    border: 2px solid red;
+    background-color: rgb(123, 123, 169);
+}
+.nv{
+    background-color: yellow;
+}
+li{
+    display: inline;
+    text-align: left;
+    margin-right: 30px;
+}
+p{
+    text-align: justify;
+}
+h3{
+    text-align: center;
+}

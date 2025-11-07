@@ -1,0 +1,13 @@
+.container{border: 5px solid greenyellow;}
+.col-12,.col-2,.col-5{
+    border: 5px solid saddlebrown;
+}
+.pink{
+    background-color: pink;
+}
+.lb{
+    background-color: aquamarine;
+}
+.col-3,col-4,col-2{
+    border: 5px solid rgb(red, green, blue);
+}

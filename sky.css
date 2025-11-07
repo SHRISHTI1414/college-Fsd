@@ -1,0 +1,16 @@
+.container{
+    border: 5px solid;
+    border-color: rgb(31, 51, 236);
+}
+.container-fluid{
+    border: 5px solid green;
+
+
+}
+.row{
+    border: 5px solid rgb(218, 12, 98);
+
+}
+.col{
+    border: 5px rgb(205, 205, 45);
+}
